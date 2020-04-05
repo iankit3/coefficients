@@ -36,20 +36,7 @@ module.exports = {
     'gatsby-transformer-json',
     'gatsby-transformer-remark',
     'gatsby-plugin-react-helmet',
-    // {
-    //   resolve: `gatsby-plugin-sass`,
-    //   options: {
-    //     postCssPlugins: [
-    //       require(`postcss-preset-env`)({
-    //         stage: 2,
-    //         features: {
-    //           "nesting-rules": true,
-    //         },
-    //       }),
-    //     ],
-    //     precision: 6,
-    //   },
-    // },    
+    'gatsby-plugin-netlify-cms',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -75,7 +62,6 @@ module.exports = {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: guid ? guid : 'UA-XXX-1',
-        // Puts tracking script in the head instead of the body
         head: false,
       },
     },
