@@ -1,52 +1,25 @@
 ---
-path: '/services/audting'
-title: 'Auditing and Due Diligence'
-date: 2020-04-04T12:33:46+05:30
-image: 'services/noun_591323.png'
+path: /services/audting
+title: Auditing and Due Diligence
+date: 2020-04-04T07:03:46.000Z
+image: services/noun_591323.png
 ---
+**Statutory Audit**
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+It is a mandatory audit which is presented before the regulators and public ensuring a fair view of accounts of a running business. It is not optional and a must to do exercise for those enterprises which satisfy certain criterions. Statutory Audit must be performed by qualified and independent Chartered Accountants. Thereafter the audit report is to be presented to the regulators in the prescribed formats.
 
-## Ne verba patulosque numen vix libet
+**Internal Audit**
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Though mandated by law or regulators it is necessary for the purpose of healthy running of a business. It is a dynamic process diagnoses the entire working processes and help to refashion it to achieve desired objectives.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+**Process Audit**
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+This audit involves thorough investigation of whether the internal working systems and processes are going well at all levels to achieve the pre-determined goals of an organisation. This is required not for regulatory requirements but for consistently focussing over the ways and processes being adopted to achieve set objectives.
 
-## Postquam tamen
+**Management Audit**
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+What policies and methods are being applied and how much these are contributing towards achieving the set goals? The answers can be found only through the management audit of the organisation. It is directly related to planning and policies of the organisation and its idea to use its resources. This audit involves planning, company policies, contract commitments and regulatory requirements.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+**Due Diligence**
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+In a commercial transaction, it is always advisable to do a reasonable investigation of opposite party which includes investigation into assets, commercial transactions, risk analysis. It helps you in taking the informed decision. The commercial transaction can be merger, amalgamation, takeover, investment and other such transaction.
