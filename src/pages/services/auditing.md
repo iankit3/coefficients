@@ -2,8 +2,10 @@
 path: /services/audting
 title: Auditing and Due Diligence
 date: 2020-04-04T07:03:46.000Z
-image: services/noun_591323.png
+image: /img/entrepreneur-593378.jpg
 ---
+
+
 **Statutory Audit**
 
 It is a mandatory audit which is presented before the regulators and public ensuring a fair view of accounts of a running business. It is not optional and a must to do exercise for those enterprises which satisfy certain criterions. Statutory Audit must be performed by qualified and independent Chartered Accountants. Thereafter the audit report is to be presented to the regulators in the prescribed formats.
