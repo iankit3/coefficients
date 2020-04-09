@@ -9,6 +9,10 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
+  &.call-home{
+    background: none;
+    box-shadow: none;
+  }
   @include media-breakpoint-up(sm) {
     align-items: center;
     flex-direction: row;
@@ -38,20 +42,4 @@
     font-size: 1.1rem;
     font-weight: bold;
   }
-  svg {
-    //       fill: lighten($primary, 30%);
-    fill: lighten($secondary, 40%);
-    position: absolute;
-    bottom: -9px;
-    right: 0;
-    width: 100px;
-    height: 100px;
-    @include media-breakpoint-up(sm) {
-      width: 120px;
-      height: 120px;
-    }
-  } // .call-box-bottom {
-  //   padding: 10px 20px;
-  //   border-bottom: 1px solid #CCC;
-  // }
 }

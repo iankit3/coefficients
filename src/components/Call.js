@@ -2,7 +2,7 @@ import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 
 const Call = props => (
-  <div className="call">
+  <div className={`call ${props.button ? "call-home" : ""}`}>
     <div className="call-box-top">
       <div className="call-phone">
         <strong>Phone: </strong>

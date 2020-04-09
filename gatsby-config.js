@@ -21,10 +21,10 @@ module.exports = {
         name: 'Team',
         link: '/team',
       },
-      // {
-      //   name: 'Testimonials',
-      //   link: '/testimonials',
-      // },
+      {
+        name: 'Blog',
+        link: '/blog',
+      },
       {
         name: 'Contact',
         link: '/contact',
